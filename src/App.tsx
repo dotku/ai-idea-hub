@@ -88,7 +88,7 @@ function App() {
         <div className="bg-white rounded-lg shadow-lg overflow-hidden">
           {/* Header */}
           <div className="p-4 bg-indigo-600 text-white flex justify-between items-center">
-            <h1 className="text-xl font-bold">AI 助手</h1>
+            <h1 className="text-xl font-bold">AI 创业点子助手</h1>
             <div className="flex gap-2 items-center">
               <button
                 onClick={() => setMode('chat')}
